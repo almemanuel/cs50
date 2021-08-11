@@ -1,4 +1,7 @@
+# Week 0
+
 Todo conteúdo desta pasta é baseado [nesta aula](https://cs50.harvard.edu/x/2021/weeks/0/)
+
 ---
 
 ## Sobre a Ciência da Computação
